@@ -3,8 +3,7 @@
 
 I am a softmore undergraduate at the Unniversity of Minnesota in the College of Science and Engineering with a profound interest in Computer Science, specifically Cyber Security. 
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## Objectives & Goals
 
 My journey with technology has led me to develop a deep interest for cybersecurity, and I am very eager to transition into this field, specifically aiming to obatain an internship as a Security Analyst.
 
