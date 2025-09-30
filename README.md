@@ -20,6 +20,7 @@ My journey with technology has led me to develop a deep interest for cybersecuri
 
 1. Onshape
 2. VS Code
+3. IntelliJ
 
 ### Software
 1. Microsoft Office Suite (Word, Excel, Outlook)
